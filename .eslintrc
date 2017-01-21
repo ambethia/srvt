@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "standard",
+    "standard-react"
+  ],
+  "rules": {
+    "strict": 0
+  },
+  "parser": "babel-eslint",
+  "globals": {
+    "AUTH0": true
+  }
+}
